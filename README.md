@@ -1,16 +1,21 @@
-### Hi there 👋
+---
 
-<!--
-**Ctr1cCtr1v/Ctr1cCtr1v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+ murf.
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+ 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <!-- <img src="https://media0.giphy.com/media/TGvOS6pEcy0ZJDttdL/giphy.gif?cid=790b761191e331c370dc2e801a3ecbb812cd10083ec5311b&rid=giphy.gif&ct=s"> -->
+<!--  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.webp"> -->
+ <!-- <img src="https://media.giphy.com/media/hs1wBxNGuR7z2LyzHT/giphy.gif"> --> 
+ <!-- <img src="https://media3.giphy.com/media/26u4oh3BsaUOqHpYc/giphy.gif"> -->
+ <img src="https://thumbs.gfycat.com/ContentJitteryCats-size_restricted.gif">
+ <!-- <img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif"> --> 
+ <!-- <img src="https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg"> -->
+</p>
+
+---
