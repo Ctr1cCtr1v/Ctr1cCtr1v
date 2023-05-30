@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">
- murf.
+ Crtl+C Ctrl+V
 </h1>
 
 <p align="center">
