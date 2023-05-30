@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">
- Crtl+C Ctrl+V
+ Crt1cCtr1V
 </h1>
 
 <p align="center">
